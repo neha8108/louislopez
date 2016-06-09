@@ -1,0 +1,76 @@
+body{
+    background-color: white;
+    color: black;
+    width: 100%;
+    height:100%;
+
+}
+
+header{
+    background-color: black;
+    color: white;
+    /*border-style: solid;*/
+    /*border-color: red;*/
+    width: 100%;
+    height:100%;
+}
+
+section{
+    width: 100%;
+    height: 100%;
+}
+
+p{
+    height: 45%;
+    width: 45%;
+    float: left;
+    padding-left: 10px;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    /*border-style: solid;*/
+    /*border-color: red;*/
+    width: 100%;
+    height:100%;
+    bottom: 0;
+    float:left;
+}
+
+#banner{
+    text-align: center;
+}
+.photos{
+    border-style: solid;
+    border-color: white;
+    float: left;
+    width: 50%;
+    height: 50%;
+    /*padding: 5px;*/
+}
+
+.content{
+    width: 100%;
+    height: 100%;
+}
+
+.fStyle{
+    font-family: AppleGothic;
+    color: white;
+    width: 33%;
+    height: 5%;
+    float: left;
+}
+
+#donateLogo{
+    height: 120px;
+    width: 200px;
+}
+
+.smLogo{
+    height: 50px;
+    width: 50px;
+    float: left;
+}
